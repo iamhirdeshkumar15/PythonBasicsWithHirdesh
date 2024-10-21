@@ -9,7 +9,7 @@ print(35+23)
 
 
 name = "Hirdesh"
-age = 22
+age = 23
 salary = 100000.99
 age2 = age
 
