@@ -1,7 +1,7 @@
 # Write a code to encode and decode a string.
 # Sender
 alphabets = 'abcdefghijklmnopqrstuvwxyz'
-decode = input()
+decode = input("Enter a Message")
 encode = ''
 for i in range (len(decode)):
     encode += alphabets[(alphabets.index(decode[i])+3)%26]
