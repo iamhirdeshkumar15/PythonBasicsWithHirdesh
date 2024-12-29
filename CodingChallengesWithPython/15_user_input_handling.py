@@ -4,8 +4,6 @@ name = input("Enter Your Name: ")
 print("Hello", name)
 print(type(name))
 
-###########################################
-
 # Taking input from the user as integer
 
 num = int(input("Enter a number: "))
