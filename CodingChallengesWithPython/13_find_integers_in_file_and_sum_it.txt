@@ -1,4 +1,4 @@
 Hi everyone 20
 we are learning 50 File I/O 70
 using Python 180
-I like 30 programming in 50 Python.
+I like -30 programming in 50 Python.
