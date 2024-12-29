@@ -8,3 +8,4 @@ with open('13_find_integers_in_file_and_sum_it.txt','r') as file:
             if word.isdigit():
                 total = total + int(word)
 print(total)
+
