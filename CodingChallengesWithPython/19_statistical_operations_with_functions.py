@@ -11,7 +11,7 @@ mean_value = np.mean(array)  # Mean value
 std_deviation = np.std(array)  # Standard deviation
 variance = np.var(array)  # Variance
 product = np.prod(array) # Product
-medi = np.median(array) #Median
+medi = np.median(array) #Median Value
 
 print("Array:", array)
 print("Maximum:", max_value)
