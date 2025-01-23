@@ -1,4 +1,4 @@
-# Added program demonstrating the use of lambda functions and sorted() in Python.
+# Demonstrating the use of lambda functions and sorted() in Python.
 numbers = [11,13,20,31,40,51,60,71,80,91,100]
 def even(x):
     return x % 2 == 0
